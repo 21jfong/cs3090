@@ -10,6 +10,7 @@
 ## How to run your program and any necessary dependencies.
 ### Prerequisites
 - To run the program you need to have python installed
+### Running
 - In the terminal for windows if you are in the git repo then you would do `python block_proj_2.py` and it will start the program
    - I believe for mac you would need to do `python3 block_proj_2.py`
 ## Clear warnings about its limitations
